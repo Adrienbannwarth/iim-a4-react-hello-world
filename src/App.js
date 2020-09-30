@@ -10,7 +10,6 @@ function App() {
         <p>
          WESH DENE  
         </p>
-        <p>16</p>
         <a
           className="App-link"
           href="https://reactjs.org"
